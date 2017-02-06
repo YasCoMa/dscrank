@@ -1,0 +1,175 @@
+
+<http://127.0.0.1/DSCrawler/Dataset_1> <http://127.0.0.1/DSCrawler/hasName> "Affymetrix probesets [affymetrix]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.affymetrix.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "This dataset contains the probesets used in the Affymetrix microarrays. http://www.affymetrix.com/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "105.72857554"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_2> <http://127.0.0.1/DSCrawler/hasName> "A Database of Annotated Published Models [biomodels]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.biomodels.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "BioModels Database is a data resource that allows biologists to store, search and retrieve published mathematical models of biological interests. http://www.ebi.ac.uk/biomodels/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.00000000"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_3> <http://127.0.0.1/DSCrawler/hasName> "BioPortal [bioportal]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.bioportal.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "BioPortal is an open repository of biomedical ontologies that provides access via Web services and Web browsers to ontologies developed in OWL, RDF, OBO format and Protege frames. BioPortal functionality includes the ability to browse, search and visualize ontologies. http://bioportal.bioontology.org/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.69427712"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_4> <http://127.0.0.1/DSCrawler/hasName> "chEMBL [chembl]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.chembl.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "ChEMBL is a database of bioactive compounds, their quantitative properties and bioactivities (binding constants, pharmacology and ADMET, etc). The data is abstracted and curated from the primary scientific literature. https://www.ebi.ac.uk/chembldb/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.34713856"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_5> <http://127.0.0.1/DSCrawler/hasName> "ClinicalTrials.gov [clinicaltrials]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.clinicaltrials.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "ClinicalTrials.gov is a registry and results database of publicly and privately supported clinical studies of human participants conducted around the world. http://clinicaltrials.gov/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "7120.58705376"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_6> <http://127.0.0.1/DSCrawler/hasName> "Comparative Toxicogenomics Database [ctd]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.ctd.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "CTD includes manually curated data describing cross-species chemical-gene/protein interactions and chemical- and gene-disease relationships to illuminate molecular mechanisms underlying variable susceptibility and environmentally influenced diseases. http://ctd.mdibl.org"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "6770.40461326"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_7> <http://127.0.0.1/DSCrawler/hasName> "Database of single nucleotide polymorphism [dbsnp]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.dbsnp.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "The dbSNP database is a repository for both single base nucleotide subsitutions and short deletion and insertion polymorphisms. http://www.ncbi.nlm.nih.gov/SNP/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.00000000"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_8> <http://127.0.0.1/DSCrawler/hasName> "DrugBank [drugbank]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.drugbank.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "The DrugBank database is a bioinformatics and chemoinformatics resource that combines detailed drug (i.e. chemical, pharmacological and pharmaceutical) data with comprehensive drug target (i.e. sequence, structure, and pathway) information. http://www.drugbank.ca/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "1873.39198743"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_9> <http://127.0.0.1/DSCrawler/hasName> "GenAge: The Ageing Gene Database [genage]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.genage.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "GenAge is a database of human and model organism genes related to longevity and aging, maintained by the Human Ageing Genomics Resources (HAGR) group. http://genomics.senescence.info/genes/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.00000000"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_10> <http://127.0.0.1/DSCrawler/hasName> "GenDR: The Dietary Restriction Gene Database [gendr]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.gendr.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "GenDR is a database of genes associated with dietary restriction (DR). GenDR includes two datasets: 1) genes inferred from experiments in model organisms in which genetic manipulations cancel out or disrupt the life-extending effects of DR; 2) genes robustly altered due to DR, derived from a meta-analysis of microarray DR studies in mammals http://genomics.senescence.info/diet/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.34713856"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_11> <http://127.0.0.1/DSCrawler/hasName> "Gene Ontology Annotation [goa]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.goa.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "The GOA (Gene Ontology Annotation) project provides high-quality Gene Ontology (GO) annotations to proteins in the UniProt Knowledgebase (UniProtKB) and International Protein Index (IPI). This involves electronic annotation and the integration of high-quality manual GO annotation from all GO Consortium model organism groups and specialist groups. http://www.ebi.ac.uk/GOA"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "338.15998081"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_12> <http://127.0.0.1/DSCrawler/hasName> "HUGO Gene Nomenclature Committee [hgnc]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.hgnc.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "The HGNC gives unique and meaningful names to every human gene. For each known human gene we approve a gene name and symbol (short-form abbreviation). All approved symbols are stored in the HGNC database. http://www.genenames.org/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "6.58715810"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_13> <http://127.0.0.1/DSCrawler/hasName> "Integrated Protein Knowledgebase [iproclass]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.iproclass.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "The iProClass database provides value-added information reports for UniProtKB and unique UniParc proteins, with links to over 90 biological databases, including databases for protein families, functions and pathways, interactions, structures and structural classifications, genes and genomes, ontologies, literature, and taxonomy. http://pir.georgetown.edu/iproclass/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.00000000"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_14> <http://127.0.0.1/DSCrawler/hasName> "Integrated resource of protein families, domains and functional sites [interpro]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.interpro.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "InterPro is an integrated database of predictive protein \"signatures\" used for the classification and automatic annotation of proteins and genomes. InterPro classifies sequences at superfamily, family and subfamily levels, predicting the occurrence of functional domains, repeats and important sites. http://www.ebi.ac.uk/interpro"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.00000000"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_15> <http://127.0.0.1/DSCrawler/hasName> "Interaction Reference Index [irefindex]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.irefindex.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "iRefIndex provides an index of protein interactions available in a number of primary interaction databases including BIND, BioGRID, CORUM, DIP, HPRD, IntAct, MINT, MPact, MPPI and OPHID. This index includes multiple interaction types including physical and genetic (mapped to their corresponding protein products) as determined by a multitude of methods. http://irefindex.uio.no"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "184.16021974"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_16> <http://127.0.0.1/DSCrawler/hasName> "Kyoto Encyclopedia of Genes and Genomes [kegg]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.kegg.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "KEGG is an integrated database resource consisting of 16 main databases, broadly categorized into biological systems information, genomic information, and chemical information. http://www.genome.jp/kegg/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "998.84551857"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_17> <http://127.0.0.1/DSCrawler/hasName> "Linked Structured Product Label [linkedspl]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.linkedspl.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "LinkedSPL is a Linked Data version of DailyMed http://dbmi-icode-01.dbmi.pitt.edu/linkedSPLs/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.34713856"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_18> <http://127.0.0.1/DSCrawler/hasName> "Medical Subject Headings [mesh]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.mesh.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "MeSH is the National Library of Medicine's controlled vocabulary thesaurus. It consists of sets of terms naming descriptors in a hierarchical structure that permits searching at various levels of specificity http://www.nlm.nih.gov/mesh/meshhome.html"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "255.25539695"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_19> <http://127.0.0.1/DSCrawler/hasName> "Mouse genome database (MGD) from Mouse Genome Informatics (MGI) [mgi]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.mgi.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "The Mouse Genome Database (MGD) project includes data on gene characterization, nomenclature, mapping, gene homologies among mammals, sequence links, phenotypes, allelic variants and mutants, and strain data. http://www.informatics.jax.org/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "46.79025955"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_20> <http://127.0.0.1/DSCrawler/hasName> "National Drug Code Directory [ndc]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.ndc.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "The National Drug Code (NDC) is a unique product identifier used in the United States for drugs intended for human use. http://www.accessdata.fda.gov/scripts/cder/ndc/default.cfm"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "155.24438841"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_21> <http://127.0.0.1/DSCrawler/hasName> "NCBI Gene [ncbigene]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.ncbigene.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "NCBI Gene provides information for genes from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide. http://www.ncbi.nlm.nih.gov/gene"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "599.28745525"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_22> <http://127.0.0.1/DSCrawler/hasName> "NCBI Homologene [homologene]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.homologene.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "HomoloGene is a system for automated detection of homologs among the annotated genes of several completely sequenced eukaryotic genomes. http://wwww.ncbi.nlm.nih.gov/homologene"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.00000000"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_23> <http://127.0.0.1/DSCrawler/hasName> "NCBI Taxonomy [taxonomy]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.taxonomy.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "The NCBI taxonomy database contains the names of all organisms that are represented in the genetic databases with at least one nucleotide or protein sequence. http://www.ncbi.nlm.nih.gov/taxonomy"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.00056497"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_24> <http://127.0.0.1/DSCrawler/hasName> "Online Mendelian Inheritance in Man [omim]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.omim.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "OMIM is a comprehensive, authoritative, and timely compendium of human genes and genetic phenotypes. The full-text, referenced overviews in OMIM contain information on all known mendelian disorders and over 12,000 genes. OMIM focuses on the relationship between phenotype and genotype. http://www.ncbi.nlm.nih.gov/omim/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "180.44697577"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_25> <http://127.0.0.1/DSCrawler/hasName> "Orphanet; a database dedicated to information on rare diseases and orphan drugs [orphanet]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.orphanet.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "Orphanet is a database of information on rare diseases and orphan drugs for all publics. Its aim is to contribute to the improvement of the diagnosis, care and treatment of patients with rare diseases. http://www.orpha.net/consor/cgi-bin/home.php?Lng=GB"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.00000000"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_26> <http://127.0.0.1/DSCrawler/hasName> "Pathway Commons [pathwaycommons]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.pathwaycommons.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "Pathway Commons is a convenient point of access to biological pathway information collected from public pathway databases http://www.pathwaycommons.org/pc/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.00000000"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_27> <http://127.0.0.1/DSCrawler/hasName> "Pharmacogenomics Knowledge Base [pharmgkb]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.pharmgkb.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "PharmGKB curates primary genotype and phenotype data, annotates gene variants and gene-drug-disease relationships via literature review, and summarizes important PGx genes and drug pathways. http://www.pharmgkb.org/index.jsp"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "419.27127344"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_28> <http://127.0.0.1/DSCrawler/hasName> "PubMed [pubmed]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.pubmed.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "PubMed is a service of the U.S. National Library of Medicine that includes citations from MEDLINE and other life science journals for biomedical articles back to the 1950s. http://www.ncbi.nlm.nih.gov/pubmed/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.00000000"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_29> <http://127.0.0.1/DSCrawler/hasName> "Reactome - a curated knowledgebase of biological pathways [reactome]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.reactome.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "The Reactome project is a collaboration to develop a curated resource of core pathways and reactions in human biology. http://www.reactome.org"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.00000000"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_30> <http://127.0.0.1/DSCrawler/hasName> "SABIO-RK [sabiork]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.sabiork.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "SABIO-RK is a database for biochemical reactions, their kinetic equations with their parameters, and the experimental conditions under which these parameters were measured. http://sabiork.h-its.org/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.00000000"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_31> <http://127.0.0.1/DSCrawler/hasName> "Saccharomyces Genome Database"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.sgd.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "[sgd] The Saccharomyces Genome Database (SGD) collects and organizes information about the molecular biology and genetics of the yeast Saccharomyces cerevisiae. SGD contains a variety of biological information and tools with which to search and analyze it. http://www.yeastgenome.org/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "52156.76337550"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_32> <http://127.0.0.1/DSCrawler/hasName> "Side Effect Resource [sider]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.sider.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "SIDER contains information on marketed medicines and their recorded adverse drug reactions. The information is extracted from public documents and package inserts. The available information include side effect frequency, drug and side effect classifications as well as links to further information, for example drugâ€“target relations. http://sideeffects.embl.de"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.89757465"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_33> <http://127.0.0.1/DSCrawler/hasName> "The Life Science Resource Registry [lsr]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.lsr.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "The Resource Registry is a curated collection of datasets and terminologies used in the life sciences"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "21.16414042"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_34> <http://127.0.0.1/DSCrawler/hasName> "WikiPathways [wikipathways]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.wikipathways.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "WikiPathways is a resource providing an open and public collection of pathway maps created and curated by the community in a Wiki like style. All content is under the Creative Commons Attribution 3.0 Unported license. http://wikipathways.org/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "0.69427712"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://127.0.0.1/DSCrawler/Dataset_35> <http://127.0.0.1/DSCrawler/hasName> "WormBase [wormbase]"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasURL> "http://cu.wormbase.bio2rdf.org/sparql"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasDescription> "WormBase is an online bioinformatics database of the biology and genome of the model organism Caenorhabditis elegans and related nematodes. It is used by the C. elegans research community both as an information resource and as a mode to publish and distribute their results. http://www.wormbase.org/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://127.0.0.1/DSCrawler/hasScore> "1.93729542"^^<http://www.w3.org/2001/XMLSchema#double> .

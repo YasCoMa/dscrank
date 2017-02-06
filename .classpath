@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jaws-bin.jar"/>
+	<classpathentry kind="lib" path="simpack-0.91-bin.jar"/>
+	<classpathentry kind="lib" path="secondstring-20120620.jar"/>
+	<classpathentry kind="lib" path="procalign.jar"/>
+	<classpathentry kind="lib" path="simmetrics_jar.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jfreechart"/>
+	<classpathentry kind="lib" path="lib_jackson/jackson-annotations-2.1.4.jar"/>
+	<classpathentry kind="lib" path="lib_jackson/jackson-core-2.1.4.jar"/>
+	<classpathentry kind="lib" path="lib_jackson/jackson-databind-2.1.4.jar"/>
+	<classpathentry kind="lib" path="lib_stanford_tagger/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="fedx-2.0.jar"/>
+	<classpathentry kind="lib" path="commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="openrdf-sesame-2.7.13-onejar.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

@@ -1,0 +1,3 @@
+9-http://affymetrix.bio2rdf.org/sparql
+20-http://biomodels.bio2rdf.org/sparql
+2-http://bioportal.bio2rdf.org/sparql
